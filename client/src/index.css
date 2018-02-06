@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.page-header{
+  margin: auto;
+  text-align: center;
+ }
+ .weather-box {
+
+  text-align: center;
+ }
